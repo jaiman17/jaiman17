@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Jaiman</h1>
 <h3 align="center">A passionate developer from India, always looking to learn more and build better.</h3>
 
-- 🌱 I’m currently learning **PHP with Laravel**
+- 🌱 I’m currently learning **System Architecture and Database modelling via making projects in Node.js**
 
-- 💬 Ask me about **React, Javascript.**
+- 💬 Ask me about **React, Next.js, Node.js and Javascript.**
 
 - 📫 How to reach me **adityajaiman17@gmail.com**
 
